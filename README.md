@@ -2,8 +2,6 @@
 
 A beautiful, responsive chat interface powered by Groq AI with real-time typing animation and markdown support.
 
-![PanosGPT Screenshot](https://via.placeholder.com/800x400?text=PanosGPT+Chat+Interface)
-
 ## ✨ Features
 
 - 💬 **Real-time chat** with Groq AI (openai/gpt-oss-120b)
